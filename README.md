@@ -499,6 +499,6 @@ style.css
 
 
 ## OUTPUT:
-![alt text](<Screenshot (45).png>)
+![alt text](<Screenshot (46).png>)
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
